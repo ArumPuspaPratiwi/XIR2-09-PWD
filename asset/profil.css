@@ -1,0 +1,29 @@
+h1{
+  color: white;
+  font-family: 'century gothic';
+  text-align: center;
+}
+table,tr,td{
+    font-family: 'century gothic';
+    color: black ;
+    border: 1px solid black;
+    padding: 5px;
+    background-color: white;
+    }
+ .posisi{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: 45px;;
+    left: 100px;
+    right: 50px;
+    top: 60px;
+    bottom: 0;
+    }
+ body{
+    background-image: url('1.jpg');
+    background-repeat: no-repeat;
+    background-size: 1480px auto;
+    background-attachment: fixed;
+ }

@@ -1,0 +1,11 @@
+body{
+  background-image: url('baevent.jpg');
+}
+h1{
+    color: white;
+    font-family: 'century gothic';
+    text-align: center;
+  }
+  p{
+    font-family: century gothic;
+  }
